@@ -1,0 +1,100 @@
+The Best Corsair,Europlay,1905,Pinball
+Tasty Samba,Inder,1905,Pinball
+Topaz,Inder,1905,Pinball
+Up Away,Inder,1905,Pinball
+Yale,Inder,1905,Pinball
+World Cup '90,Mr. Game,1905,Pinball
+The Raid,Playmatic,1905,Pinball
+Trailer,Playmatic,1905,Pinball
+Zira,Playmatic,1905,Pinball
+Viper Night Drivin',Sega Pinball,1905,Pinball
+Total Nuclear Annihilation,Spooky Pinball,1905,Pinball
+Transformers,Stern Pinball,1905,Pinball
+Tron: Legacy,Stern Pinball,1905,Pinball
+X-Men,Stern Pinball,1905,Pinball
+Zarza,Taito of Brazil,1905,Pinball
+Ten Stars,Zaccaria,1905,Pinball
+Ten Up,Zaccaria,1905,Pinball
+Baffle Ball,Gottlieb,1931,Pinball
+Bank-A-Ball,J. F. Linck Corp.,1932,Pinball
+Juggle Ball,Rock-ola,1932,Pinball
+Tivoli JR.,American Sales,1933,Pinball
+Sprint,Bally,1937,Pinball
+Phantom,Pacific Manufacturing Corporation,1937,Pinball
+Conquest,Exhibit,1939,Pinball
+Dixie,Chicago Coin,1940,Pinball
+Laura,Williams,1945,Pinball
+Humpty Dumpty,Gottlieb,1947,Pinball
+Ali Baba,Gottlieb,1948,Pinball
+Double-Shuffle,Gottlieb,1949,Pinball
+Be-Bop,Exhibit Supply Co,1950,Pinball
+Canasta,Genco,1950,Pinball
+Double-Feature,Gottlieb,1950,Pinball
+Knock Out,Gottlieb,1950,Pinball
+Sea Jockeys,Williams,1951,Pinball
+Arabian Knights,Gottlieb,1953,Pinball
+Dealer,Williams,1953,Pinball
+Grand Champion,Williams,1953,Pinball
+Daisy May,Gottlieb,1954,Pinball
+Deluxe Jumbo,Gottlieb,1954,Pinball
+Diamond Lill,Gottlieb,1954,Pinball
+Dragonette,Gottlieb,1954,Pinball
+Spitfire,Williams,1954,Pinball
+Duette,Gottlieb,1955,Pinball
+Can Can,Williams,1955,Pinball
+Circus Wagon,Williams,1955,Pinball
+Derby Day,Gottlieb,1956,Pinball
+Fun House,Williams,1956,Pinball
+Ace High,Gottlieb,1957,Pinball
+Continental Cafe,Gottlieb,1957,Pinball
+Royal Flush,Gottlieb,1957,Pinball
+Arrowhead,Williams,1957,Pinball
+Big Inning,Bally,1958,Pinball
+Flying Aces,Genco,1958,Pinball
+Criss Cross,Gottlieb,1958,Pinball
+Double Action,Gottlieb,1958,Pinball
+Picnic,Gottlieb,1958,Pinball
+Casino,Williams,1958,Pinball
+Club House,Williams,1958,Pinball
+Crossword,Williams,1959,Pinball
+Deluxe Pinch-Hitter,Williams,1959,Pinball
+Captain Kidd,Gottlieb,1960,Pinball
+Flipper,Gottlieb,1960,Pinball
+Texan,Gottlieb,1960,Pinball
+Darts,Williams,1960,Pinball
+Deluxe Official Baseball,Williams,1960,Pinball
+Big Casino,Gottlieb,1961,Pinball
+Flipper Fair,Gottlieb,1961,Pinball
+Flipper Parade,Gottlieb,1961,Pinball
+Flying Circus,Gottlieb,1961,Pinball
+Bowling Flipper,Rally Play Co.,1961,Pinball
+Add-A-Ball,Williams,1961,Pinball
+Batting Champ,Williams,1961,Pinball
+Bo Bo,Williams,1961,Pinball
+Caravelle,Williams,1961,Pinball
+Deluxe Batting Champ,Williams,1961,Pinball
+Double Barrel,Williams,1961,Pinball
+Flipper Clown,Gottlieb,1962,Pinball
+Flipper Cowboy,Gottlieb,1962,Pinball
+Olympics,Gottlieb,1962,Pinball
+Tropic Isle,Gottlieb,1962,Pinball
+Beach Games,Rally Play Co.,1962,Pinball
+Coquette,Williams,1962,Pinball
+Cross Country,Bally,1963,Pinball
+Fire Cracker,Chicago Coin,1963,Pinball
+Flying Chariots,Gottlieb,1963,Pinball
+Gigi,Gottlieb,1963,Pinball
+Beat the Clock,Williams,1963,Pinball
+Big Inningÿ(Chicago Model),Williams,1963,Pinball
+Big Inningÿ(New York Model),Williams,1963,Pinball
+Swing Time,Williams,1963,Pinball
+Big Day,Bally,1964,Pinball
+Bongo,Bally,1964,Pinball
+Bus Stop,Bally,1964,Pinball
+Bonanza,Gottlieb,1964,Pinball
+Bowling Queen,Gottlieb,1964,Pinball
+Zig Zag,Williams,1964,Pinball
+Aces High,Bally,1965,Pinball
+Trio,Bally,1965,Pinball
+Buckaroo,Gottlieb,1965,Pinball
+Dodge City,Gottlieb,1965,Pinball
