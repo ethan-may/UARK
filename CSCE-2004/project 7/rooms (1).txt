@@ -1,0 +1,39 @@
+wine cellar
+30
+DWARF
+none
+none
+You have entered the prized wine cellar. As you wander around, you come to
+find all the bottles are still perfectly in place, but some are empty,
+and some are still full. You hear someone coming and duck behind a table to hide.
+#
+main hallway
+15
+TROLL
+STEAK
+knife
+You just waltzed into the front doors of an abandoned castle. When you
+spark up a match, you realize it's not just SOME mansion. In fact,
+it's the oldest mansion the land has had in centuries. As you
+take a look around, you decide it might be fun to explore the rest of the castle.
+#
+attic
+40
+BUNNY
+CANDY
+candles
+You have entered a huge attic filled with empty boxes
+and clutter. Looking at the side of one box, you see 'Troll Food'.
+As you take a closer look, you see something shiny hidden behind
+all the boxes... A Treasure Chest! Quick, take your earnings and
+leave while you still can!
+#
+bathroom
+10
+DWARF
+POTION
+water
+You have entered a ginormous bathroom with a shower bigger than
+your entire bathroom back home. As you peak inside the shower,
+you see it's become a bunny sanctuary now. It's time to go.
+#
